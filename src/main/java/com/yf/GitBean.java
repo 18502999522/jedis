@@ -10,4 +10,6 @@ public class GitBean {
 
     private String userType;
 
+    int id;
+
 }
